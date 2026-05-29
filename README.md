@@ -170,16 +170,6 @@ I thrive in cross-functional teams where I can combine **database expertise with
 
 ---
 
-## 📞 Get in Touch
-
-**Want to collaborate or have questions?**
-
-- 📧 **Email:** mahammadrasulovv@gmail.com
-- 💼 **LinkedIn:** [Mahammad Rasulov](https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-r%C9%99sulov-8911a6314/)
-- 🐙 **GitHub:** [@MahammadRasulovv](https://github.com/MahammadRasulovv)
-- 📱 **Phone:** +994 055 536 27 57
-
----
 
 ## 🙏 Thank You!
 
