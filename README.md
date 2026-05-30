@@ -2,7 +2,7 @@
 
 **Oracle SQL Developer | Data Engineering Enthusiast | Full-Stack Database Architect**
 
-📍 Baku, Azerbaijan | 📧 mahammadrasulovv@gmail.com | 📱 +994 055 536 27 57  
+📍 Baku, Azerbaijan | 📧 mahammadrasulovv@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-r%C9%99sulov-8911a6314/) | [GitHub](https://github.com/MahammadRasulovv)
 
 ---
