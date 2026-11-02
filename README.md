@@ -1,6 +1,6 @@
 # Mahammad Rasulov
 
-**Associate Data Engineer** | Apache Airflow 3 · PySpark · Delta Lake · PostgreSQL · Oracle SQL
+**Associate Data Engineer** | Apache Airflow 3 · Apache Spark · PostgreSQL · Oracle SQL · Linux · Docker
 
 Baku, Azerbaijan · [mahammadrasulovv@gmail.com](mailto:mahammadrasulovv@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-r%C9%99sulov-8911a6314/)
 
